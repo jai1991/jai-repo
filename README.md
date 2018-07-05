@@ -1,2 +1,2 @@
 # jai-repo
-jai repository
+jai repository demo
